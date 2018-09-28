@@ -1,0 +1,102 @@
+body{
+    background-color: aliceblue;
+}
+
+table tr td{
+    width: 100px;
+    height: 100px;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#score{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -150px;
+    padding-left: 50%;
+}
+
+#sizetitle{
+    float: left;
+    margin-top: 0px;
+}
+
+#sizecoll{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#sizerow{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#storage-bloc{
+    margin-left: -150px;
+    padding-left: 50%;
+}
+
+#storagetitle{
+    float: left;
+    margin-top: 0px;
+}
+
+#storage{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#box-bloc{
+    margin-left: -150px;
+    padding-left: 50%;
+}
+
+#boxtitle{
+    float: left;
+    margin-top: 0px;
+}
+
+#box{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#pbox-bloc{
+    margin-left: -150px;
+    padding-left: 50%;
+}
+
+#pboxtitle{
+    float: left;
+    margin-top: 0px;
+}
+
+#pbox{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#setting-bloc{
+    margin-left: -150px;
+    padding-left: 50%;
+}
+#backpack-container{
+    margin-left: -150px;
+    padding-left: 50%;
+}
